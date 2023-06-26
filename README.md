@@ -1,6 +1,6 @@
 Hi , you are looking at lokeshramchand-ctrl readme.md
-Myself Lokesh Ram Chand 
-Currently pursing bachelors in Computer Science 
+. Myself Lokesh Ram Chand,
+currently pursing bachelors in Computer Science.
 Studying First year in KL university Hyderabad 
 I have just started to learn to code and has zero experience in coding and computer science 
 I have just started with programming language 'C'
