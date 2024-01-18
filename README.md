@@ -34,9 +34,7 @@ Skills: C / Python🐍 / Cloud☁️
 
 ![](https://github-readme-stats.vercel.app/api?username=lokeshramchand-ctrl&theme=nord&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=lokeshramchand-ctrl)  
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 
-<div style="width:100%;height:0;padding-bottom:89%;position:relative;"><iframe src="https://giphy.com/embed/h408T6Y5GfmXBKW62l" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/codeit-official-coding-helloworld-codeit-h408T6Y5GfmXBKW62l">via GIPHY</a></p>
