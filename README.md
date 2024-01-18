@@ -9,10 +9,14 @@ I'm guy who does learning, making epic fails, and throwing a party for every tin
 Skills: C / Python🐍 / Cloud☁️
 
  🔭 I’m currently working on **me**
+ 
  👯 I’m looking to collaborate on **everyone**  
+
  🤔 I’m looking for help with **everything idk**
+
  💬 Ask me about **everything **ik****
- 📫 How to reach me: **that's where social media comes into play**
+
+📫 How to reach me: **that's where social media comes into play**
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/lokeshramchand-ctrl) 
