@@ -32,7 +32,9 @@ Skills: C / Python🐍 / Cloud☁️
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=lokeshramchand-ctrl&show_icons=true&count_private=true)  
+![](https://github-readme-stats.vercel.app/api?username=lokeshramchand-ctrl&theme=nord&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=lokeshramchand-ctrl)  
 
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
