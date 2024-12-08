@@ -9,7 +9,7 @@ I'm guy who does learning, making epic fails, and throwing a party for every tin
 
 
 ## 🌐 Socials:
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/lokesh-ram-chand-b-b276bb291/?originalSubdomain=in" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
