@@ -23,10 +23,6 @@ Welcome to my repository! I am a **passionate software developer**, and an enthu
   <a href="https://www.linkedin.com/in/lokesh-ram-chand-b-b276bb291/?originalSubdomain=in" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="lokeshramchand@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
 
 ###
 # 💻 Tech Stack:
@@ -46,10 +42,8 @@ Welcome to my repository! I am a **passionate software developer**, and an enthu
 <br clear="both">
 
 
-## 📬 Let's Connect!
+## 📬 Let's Connect! via Email
 
-- **GitHub**: [lokeshbazaru](https://github.com/lokeshbazaru)
-- **LinkedIn**: [Lokesh Ram Chand Bazaru](https://www.linkedin.com/in/lokesh-ram-chand-bazaru)
 - **Email**: lokeshramchand@gmail.com
 
 ---
