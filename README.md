@@ -31,6 +31,8 @@ Welcome to my repository! I am a **passionate software developer**, and an enthu
 ![](https://github-readme-stats.vercel.app/api?username=lokeshramchand-ctrl&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=lokeshramchand-ctrl&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lokeshramchand-ctrl&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![](https://streak-stats.demolab.com?user=lokeshramchand-ctrl&theme=dark&hide_border=true&border_radius=5.5)](https://git.io/streak-stats)
+
 
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
