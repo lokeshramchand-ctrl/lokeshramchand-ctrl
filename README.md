@@ -45,11 +45,6 @@ Welcome to my repository! I am a **passionate software developer**, and an enthu
 <br clear="both">
 
 
-## 📬 Let's Connect! via Email
-
-- **Email**: lokeshramchand@gmail.com
-
----
 
 
 
