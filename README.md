@@ -1,7 +1,6 @@
 
 Heya! 👋 Guy from 20o5
 
-
 I'm on this coding journey to turn my childhood daydreams into digital thingy
 🧑‍💻staring at my screen with something irrevelant running inside my brains 
 I'm guy who does learning, making epic fails, and throwing a party for every tiny win.
