@@ -30,7 +30,7 @@ Welcome to my repository! I am a **passionate software developer**, and an enthu
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=lokeshramchand-ctrl&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=lokeshramchand-ctrl&theme=tokyonight&hide_border=true)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lokeshramchand-ctrl&show_icons=true&theme=highcontrast&title_color=ffffff&text_color=ffffff&cache_seconds=100&locale=en&layout=compact" alt="lokeshramchand-ctrl" /></p>
 
 [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=lokeshramchand-ctrl&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
