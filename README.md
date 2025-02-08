@@ -22,12 +22,11 @@ Welcome to my repository! I am a **passionate software developer**, and an enthu
   <a href="https://www.linkedin.com/in/lokesh-ram-chand-b-b276bb291/?originalSubdomain=in" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  - 📫 How to reach me: **lokeshramchand@gmail.com**
 
 
 ###
 # 💻 Tech Stack:
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,java,kotlin,sklearn,mysql,postgres,html,css,bootstrap,js,jquery,react,expressjs,nodejs,postman,npm,mongodb,pug,git,github,netlify,vscode,matlab,ps,autocad,aws,linux,androidstudio,arduino,stackoverflow&perline=13)](#)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=lokeshramchand-ctrl&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
