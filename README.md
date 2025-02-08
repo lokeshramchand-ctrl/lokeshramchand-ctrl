@@ -18,10 +18,10 @@ Welcome to my repository! I am a **passionate software developer**, and an enthu
 ---
 
 ## 🌐 Socials:
-<div align="left">
-  <a href="https://www.linkedin.com/in/lokesh-ram-chand-b-b276bb291/?originalSubdomain=in" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
+<p align="left">
+<a href="mailto:lokeshramchand@gmail.com"  target="_blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="lokeshramchand" height="30" width="40" /></a>
+<a href="(https://www.linkedin.com/in/lokesh-ram-chand-b-b276bb291/)" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="lokeshramchand" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_akshitapathak/"  target="_blank"><img align="center"  src="https://skillicons.dev/icons?i=instagram" alt="lokeshramchand" height="30" width="40" /></a>
 
 
 ###
@@ -34,9 +34,6 @@ Welcome to my repository! I am a **passionate software developer**, and an enthu
 
 [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=lokeshramchand-ctrl&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
 
 
 
