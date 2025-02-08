@@ -18,10 +18,10 @@ Welcome to my repository! I am a **passionate software developer**, and an enthu
 ---
 
 ## 🌐 Socials:
-<p align="left">
-<a href="mailto:lokeshramchand@gmail.com"  target="_blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="lokeshramchand" height="30" width="40" /></a>
-<a href="[(https://www.linkedin.com/in/lokesh-ram-chand-b-b276bb291/)](https://www.linkedin.com/in/lokesh-ram-chand-b-b276bb291/)](https://www.linkedin.com/in/lokesh-ram-chand-b-b276bb291/)" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="akshiita07" height="30" width="40" /></a>
-<a href="https://www.instagram.com/_akshitapathak/"  target="_blank"><img align="center"  src="https://skillicons.dev/icons?i=instagram" alt="lokeshramchand" height="30" width="40" /></a>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lokesh-ram-chand-b-b276bb291/)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lokeshramchand@gmail.com)
+
 
 
 ###
