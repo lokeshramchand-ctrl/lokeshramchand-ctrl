@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/90b68a56-062b-474a-a71a-6ac783547124)
 Heya! 👋 Guy from 20o5
 
 I'm on this coding journey to turn my childhood daydreams into digital thingy
