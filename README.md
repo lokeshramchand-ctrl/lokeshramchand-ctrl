@@ -44,8 +44,6 @@ Welcome to my repository! I am a **passionate software developer**, and an enthu
 
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="LokeshRamChand's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=lokeshramchand-ctrl&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
-![image](https://github.com/user-attachments/assets/f35a457a-f4d2-4fca-b1ee-57380b6f668a)
-
 
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&width=1000&section=footer"/>
