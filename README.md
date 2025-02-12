@@ -42,7 +42,9 @@ Welcome to my repository! I am a **passionate software developer**, and an enthu
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 <br clear="both">
 
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="LokeshRamChand's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=lokeshramchand-ctrl&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img alt="LokeshRamChand's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=lokeshramchand-ctrl&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&hide_border=true" />
+</a>
 
 
 <p align="center">
