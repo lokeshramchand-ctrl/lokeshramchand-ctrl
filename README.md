@@ -32,7 +32,9 @@ Welcome to my repository! I am a **passionate software developer**, and an enthu
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lokeshramchand-ctrl&show_icons=true&theme=highcontrast&title_color=ffffff&text_color=ffffff&cache_seconds=100&locale=en&layout=compact" alt="lokeshramchand-ctrl" /></p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lokeshramchand-ctrl&show_icons=true&theme=tokyonight&hide_border=true&layout=compact" alt="lokeshramchand-ctrl" />
+</p>
 
 
 [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=lokeshramchand-ctrl&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
