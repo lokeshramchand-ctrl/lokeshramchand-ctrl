@@ -6,6 +6,7 @@ I'm guy who does learning, making epic fails, and throwing a party for every tin
 
 Welcome to my repository! I am a **passionate software developer**, and an enthusiastic learner with a strong drive to build impactful solutions. My projects reflect my dedication to technology and my vision for creating user-friendly applications. I am always excited to contribute to open-source projects and solve real-world problems.
 
+
 ## 🚀 About Me
 
 - 🎓 **Education**: Pursuing a degree in Computer Science and Engineering at KLH University 
@@ -14,6 +15,7 @@ Welcome to my repository! I am a **passionate software developer**, and an enthu
 - 📚 **Experience**: Extensive experience in Flutter, Firebase, and UI/UX design, with multiple projects under my belt.
 
 ---
+
 
 ## 🌐 Social:
 
