@@ -27,7 +27,7 @@ Welcome to my repository! I am a **passionate software developer**, and an enthu
 
 ###
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=c,python,java,mysql,postgres,html,css,js,react,nodejs,postman,mongodb,git,github,vscode,ps,aws,linux,androidstudio,flutter,firebase,figma,django,webflow,redhat,&perline=13)](#)
+[![My Skills](https://skillicons.dev/icons?i=c,python,java,mysql,postgres,html,css,js,react,nodejs,postman,mongodb,git,vscode,ps,aws,linux,vite,sqlite,tailwindcss,androidstudio,flutter,firebase,figma,django,webflow,redhat,&perline=13)](#)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=lokeshramchand-ctrl&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
