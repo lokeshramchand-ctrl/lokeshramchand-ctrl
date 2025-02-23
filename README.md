@@ -20,14 +20,14 @@ Welcome to my repository! I am a **passionate software developer**, and an enthu
 
 ## 🌐 Social:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lokesh-ram-chand-b-b276bb291/)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lokeshramchand@gmail.com)
-
-
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/lokesh-ram-chand-b-b276bb291)
+ [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/YOUR-INSTAGRAM-USERNAME) 
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:lokeshramchand@gmail.com) 
+[![StackOverflow](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/23266289/lokesh-ram-chand)
 
 ###
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=c,python,java,mysql,postgres,html,css,js,react,nodejs,postman,mongodb,git,github,vscode,ps,aws,linux,androidstudio,flutter,stackoverflow,figma,django,webflow,redhat,&perline=13)](#)
+[![My Skills](https://skillicons.dev/icons?i=c,python,java,mysql,postgres,html,css,js,react,nodejs,postman,mongodb,git,github,vscode,ps,aws,linux,androidstudio,flutter,firebase,figma,django,webflow,redhat,&perline=13)](#)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=lokeshramchand-ctrl&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
