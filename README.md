@@ -52,5 +52,5 @@ Welcome to my repository! I am a **passionate software developer**, and an enthu
 
 
 <p align="center">
-     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&width=1000&section=footer"/>
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&width=1000&section=footer"/>
 </p>
