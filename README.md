@@ -14,7 +14,7 @@ Welcome to my repository! I am a **passionate software developer**, and an enthu
 - 🎓 **Education**: Pursuing a degree in Computer Science and Engineering at KLH University 
 - 🌱 **Learning**: Constantly exploring new technologies, frameworks, and paradigms to enhance my skills.
 - 💡 **Passion**: I love tackling challenging problems and creating innovative solutions through technology.
-- 📚 **Experience**: Extensive experience in Flutter, Firebase, and UI/UX design, with multiple projects under my belt.
+- 📚 **Experience**: Extensive experience in  MERN , Flutter, Firebase, and UI/UX design, with multiple projects under my belt.
 
 ---
 
