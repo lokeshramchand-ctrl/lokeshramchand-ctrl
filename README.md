@@ -1,6 +1,6 @@
 
-# ** Lokesh Ram Chand B**  
-### *"Turning coffee into code since 2005"*  
+#L okesh Ram Chand B 
+### *"Guy from 2005"*  
 <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=7F00FF&center=true&width=500&lines=Building+Digital+Experiences;Passionate+About+Innovation;Turning+Ideas+into+Reality" alt="Typing Animation"> </p>
 
 ## **🔥 About Me**  
