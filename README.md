@@ -49,16 +49,9 @@ I’m a **20-year-old coding sorcerer** who turns bugs into features and chaos i
     <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark&border=true" alt="Random Quote">
   </span>
   <span>
-    <img src="[https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight]">
+    <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight&border=true" alt="Random Quote">
   </span>
 </p>
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-<br clear="both">
-
-
-
-
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&width=200%"/> 
