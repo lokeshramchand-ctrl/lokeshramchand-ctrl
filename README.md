@@ -16,7 +16,7 @@
 
 ## **🔥 About Me**  
 
-I'm a **20-year-old coding sorcerer** who turns bugs into features and chaos into clean code. By day, I'm a CS student at KLH University; by night, I'm a **Flutter/MERN mercenary** building apps that might accidentally take over the world.  
+I'm a **2005 born coding sorcerer** who turns bugs into features and chaos into clean code. By day, I'm a CS student at KLH University; by night, I'm a **Flutter/MERN mercenary** building apps that might accidentally take over the world.  
 
 - � **Superpower:** Making 10-hour tasks fail in 10 minutes, then fixing them in 5.  
 - 📜 **Manifesto:** *"If it works, it's obsolete."*  
