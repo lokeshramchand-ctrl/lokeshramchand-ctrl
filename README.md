@@ -1,9 +1,7 @@
 
-# **👑 Lokesh Ram Chand B**  
+# ** Lokesh Ram Chand B**  
 ### *"Turning coffee into code since 2005"*  
 <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=7F00FF&center=true&width=500&lines=Building+Digital+Experiences;Passionate+About+Innovation;Turning+Ideas+into+Reality" alt="Typing Animation"> </p>
-
----
 
 ## **🔥 About Me**  
 I’m a **20-year-old coding sorcerer** who turns bugs into features and chaos into clean code. By day, I’m a CS student at KLH University; by night, I’m a **Flutter/MERN mercenary** building apps that might accidentally take over the world.  
@@ -21,7 +19,14 @@ I’m a **20-year-old coding sorcerer** who turns bugs into features and chaos i
 ### **🚀 Tools & Platforms**  
 [![My Tools](https://skillicons.dev/icons?i=vscode,androidstudio,postman,webflow,ps,replit,vercel,netlify,stackoverflow,raspberrypi&perline=10)](#)  
 
-*(Yes, I have a problem. No, I won’t stop collecting tech stacks.)*  
+
+## **🌐 Let’s Connect (or duel)**  
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/lokesh-ram-chand-b-b276bb291)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/YOUR-INSTAGRAM-USERNAME) 
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:lokeshramchand@gmail.com) 
+[![StackOverflow](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/23266289/lokesh-ram-chand)
+
+
 
 ---
 
@@ -37,19 +42,26 @@ I’m a **20-year-old coding sorcerer** who turns bugs into features and chaos i
 
 ---
 
-## **🌐 Let’s Connect (or duel)**  
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/lokesh-ram-chand-b-b276bb291)
- [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/YOUR-INSTAGRAM-USERNAME) 
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:lokeshramchand@gmail.com) 
-[![StackOverflow](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/23266289/lokesh-ram-chand)
----
-
-## **💬 Random Dev Wisdom**  
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark&?border=true)](https://github.com/piyushsuthar/github-readme-quotes)
----
+## **🌐 Let's Connect**
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=100%"/> 
+  <span>
+    <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark&border=true" alt="Random Quote">
+  </span>
+  <span>
+    <img src="[https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight]">
+  </span>
+</p>
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<br clear="both">
+
+
+
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&width=200%"/> 
 </p>
 
 ---
