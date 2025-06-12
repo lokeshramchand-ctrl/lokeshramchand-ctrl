@@ -1,8 +1,9 @@
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWw2NGUxZWx3MjFnbWptY3ljeng5d295cG84aTJoenNtNmNobWhuaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ip1NduMj923iZnuHfb/giphy.gif" width="160" align="right">
   
-  #### **🌟 Lokesh Ram Chand B** 
-  ### **Guy from 2005**  
+  <h1 align="center"> 
+    <span style="font-size: 64px; background: linear-gradient(90deg, #7F00FF, #E100FF); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">LOKESH RAM CHAND B</span>
+  </h1>
 </p>
 
 <p align="center">
