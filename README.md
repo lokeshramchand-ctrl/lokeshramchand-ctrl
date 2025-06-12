@@ -1,58 +1,71 @@
-Heya! 👋 Guy from 20o5
 
-I'm on this coding journey to turn my childhood daydreams into digital thingy
-🧑‍💻staring at my screen with something irrevelant running inside my brains 
-I'm guy who does learning, making epic fails, and throwing a party for every tiny win.
-
-
-Welcome to my repository! I am a **passionate software developer**, and an enthusiastic learner with a strong drive to build impactful solutions. My projects reflect my dedication to technology and my vision for creating user-friendly applications. I am always excited to contribute to open-source projects and solve real-world problems.
-
-
-## 🚀 About Me
-
-- 🎓 **Education**: Pursuing a degree in Computer Science and Engineering at KLH University 
-- 🌱 **Learning**: Constantly exploring new technologies, frameworks, and paradigms to enhance my skills.
-- 💡 **Passion**: I love tackling challenging problems and creating innovative solutions through technology.
-- 📚 **Experience**: Extensive experience in  MERN , Flutter, Firebase, and UI/UX design, with multiple projects under my belt.
-
+# **👑 Lokesh Ram Chand B**  
+### *"Turning coffee into code since 2005"*  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=70A5FD&width=435&lines=Full-Stack+Wizard;UI%2FUX+Enthusiast;Professional+Debugger;Flutter+Nomad" alt="Typing Animation">
+</p>
 
 ---
 
+## **🔥 About Me**  
+I’m a **20-year-old coding sorcerer** who turns bugs into features and chaos into clean code. By day, I’m a CS student at KLH University; by night, I’m a **Flutter/MERN mercenary** building apps that might accidentally take over the world.  
 
-## 🌐 Social:
+- � **Superpower:** Making 10-hour tasks fail in 10 minutes, then fixing them in 5.  
+- 📜 **Manifesto:** *"If it works, it’s obsolete."*  
+- 🎯 **Current Quest:** Mastering Quantum Computing (or at least pretending to).  
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/lokesh-ram-chand-b-b276bb291)
- [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/YOUR-INSTAGRAM-USERNAME) 
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:lokeshramchand@gmail.com) 
-[![StackOverflow](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/23266289/lokesh-ram-chand)
+---
 
-###
-# 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=c,python,java,mysql,postgres,html,css,js,react,nodejs,postman,mongodb,git,vscode,ps,aws,linux,vite,sqlite,tailwindcss,androidstudio,flutter,firebase,figma,django,webflow,redhat,&perline=13)](#)
+## **⚡ Tech Stack**  
+### **💻 Languages & Frameworks**  
+[![My Skills](https://skillicons.dev/icons?i=c,python,java,django,html,css,js,ts,react,nextjs,nodejs,express,tailwind,flutter,firebase,mongodb,postgres,mysql,aws,linux,git,figma&perline=11)](#)  
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=lokeshramchand-ctrl&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+### **🚀 Tools & Platforms**  
+[![My Tools](https://skillicons.dev/icons?i=vscode,androidstudio,postman,webflow,ps,replit,vercel,netlify,stackoverflow,raspberrypi&perline=10)](#)  
 
+*(Yes, I have a problem. No, I won’t stop collecting tech stacks.)*  
 
+---
 
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lokeshramchand-ctrl&show_icons=true&theme=tokyonight&hide_border=true&layout=compact" alt="lokeshramchand-ctrl" />
+## **📜 GitHub Hall of Fame**  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=lokeshramchand-ctrl&theme=tokyonight&hide_border=true&fire=70A5FD&ring=BF91F3" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=lokeshramchand-ctrl&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%">
 </p>
-
-
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=lokeshramchand-ctrl&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-<br clear="both">
-
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img alt="LokeshRamChand's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=lokeshramchand-ctrl&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&hide_border=true" />
-</a>
-
 
 <p align="center">
-     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&width=1000&section=footer"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lokeshramchand-ctrl&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&hide_border=true" width="90%">
 </p>
+
+---
+
+## **🎭 Fun Facts**  
+- 🧠 **Brain OS:** 50% code, 30% memes, 20% "why won’t this compile?"  
+- 🏆 **Trophy Case:** 1st place in *"Most Likely to Break Production"* (self-awarded).  
+- 🌌 **Alternate Universe Me:** A chef who cooks binary soup.  
+
+---
+
+## **🌐 Let’s Connect (or duel)**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lokesh-ram-chand-b-b276bb291)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_USERNAME)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lokeshramchand@gmail.com)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23266289/lokesh-ram-chand)
+
+---
+
+## **💬 Random Dev Wisdom**  
+> *"First, solve the problem. Then, write the code."*  
+> *— Some wise person who probably never met JavaScript.*  
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=100%"/> 
+</p>
+
+---
