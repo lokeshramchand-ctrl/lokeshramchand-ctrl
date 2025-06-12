@@ -1,9 +1,7 @@
 
 # **👑 Lokesh Ram Chand B**  
 ### *"Turning coffee into code since 2005"*  
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=70A5FD&width=435&lines=Full-Stack+Wizard;UI%2FUX+Enthusiast;Professional+Debugger;Flutter+Nomad" alt="Typing Animation">
-</p>
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=7F00FF&center=true&width=500&lines=Building+Digital+Experiences;Passionate+About+Innovation;Turning+Ideas+into+Reality" alt="Typing Animation"> </p>
 
 ---
 
@@ -39,29 +37,15 @@ I’m a **20-year-old coding sorcerer** who turns bugs into features and chaos i
 
 ---
 
-## **🎭 Fun Facts**  
-- 🧠 **Brain OS:** 50% code, 30% memes, 20% "why won’t this compile?"  
-- 🏆 **Trophy Case:** 1st place in *"Most Likely to Break Production"* (self-awarded).  
-- 🌌 **Alternate Universe Me:** A chef who cooks binary soup.  
-
----
-
 ## **🌐 Let’s Connect (or duel)**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lokesh-ram-chand-b-b276bb291)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_USERNAME)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lokeshramchand@gmail.com)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23266289/lokesh-ram-chand)
-
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/lokesh-ram-chand-b-b276bb291)
+ [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/YOUR-INSTAGRAM-USERNAME) 
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:lokeshramchand@gmail.com) 
+[![StackOverflow](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/23266289/lokesh-ram-chand)
 ---
 
 ## **💬 Random Dev Wisdom**  
-> *"First, solve the problem. Then, write the code."*  
-> *— Some wise person who probably never met JavaScript.*  
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
-</p>
-
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark&?border=true)](https://github.com/piyushsuthar/github-readme-quotes)
 ---
 
 <p align="center">
