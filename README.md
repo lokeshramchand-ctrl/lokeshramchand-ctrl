@@ -54,9 +54,7 @@ I'm a **2005 born coding sorcerer** who turns bugs into features and chaos into 
 
 ## **🏆 GitHub Hall of Fame**  
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=lokeshramchand-ctrl&theme=tokyonight&hide_border=true&fire=70A5FD&ring=BF91F3" width="48%">
-  &nbsp;
+
   <img src="https://github-readme-stats.vercel.app/api?username=lokeshramchand-ctrl&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%">
 </p>
 
