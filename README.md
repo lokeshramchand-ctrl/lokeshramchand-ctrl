@@ -51,7 +51,7 @@ I'm a **2005 born coding sorcerer** who turns bugs into features and chaos into 
 <br/>
 
 ---
-
+<!--
 ## **🏆 GitHub Hall of Fame**  
 
   <img src="https://github-readme-stats.vercel.app/api?username=lokeshramchand-ctrl&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%">
@@ -78,3 +78,4 @@ I'm a **2005 born coding sorcerer** who turns bugs into features and chaos into 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&width=100%"/>
 </p>
+-->
