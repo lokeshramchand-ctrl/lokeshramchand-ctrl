@@ -1,32 +1,9 @@
-<p align="center">
+<!--
+<p align="right">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWw2NGUxZWx3MjFnbWptY3ljeng5d295cG84aTJoenNtNmNobWhuaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ip1NduMj923iZnuHfb/giphy.gif" width="160" style="float: right;">
+-->
 
-  <h1 align="center" style="clear: both;"> 
-    <span style="font-size: 72px">🚀</span>
-    <span style="font-size: 48px; background: linear-gradient(90deg, #7F00FF, #E100FF); -webkit-background-clip: text; -webkit-text-fill-color: transparent; display: inline-block;">Hi , I'm Lokesh</span>
-    <span style="font-size: 72px">👨‍💻</span>
-  </h1>
-
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=7F00FF&center=true&width=500&lines=Building+Digital+Experiences;Passionate+About+Innovation;Turning+Ideas+into+Reality" alt="Typing Animation">
-</p>
-
----
-
-## **🔥 About Me**  
-
-I'm a **2005 born coding sorcerer** who turns bugs into features and chaos into clean code. By day, I'm a CS student at KLH University; by night, I'm a **Flutter/MERN mercenary** building apps that might accidentally take over the world.  
-
-- � **Superpower:** Making 10-hour tasks fail in 10 minutes, then fixing them in 5.  
-- 📜 **Manifesto:** *"If it works, it's obsolete."*  
-- 🎯 **Current Quest:** Mastering Quantum Computing (or at least pretending to).  
-
-<br/>
-
----
-
-## **⚡ Tech Stack**  
+### **⚡ Tech Stack**  
 [![CodeTime Badge](https://img.shields.io/endpoint?style=flat&color=000&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D30676)](https://codetime.dev)
 ### **💻 Languages & Frameworks**  
 [![My Skills](https://skillicons.dev/icons?i=c,python,java,django,html,css,js,ts,react,nextjs,nodejs,express,tailwind,flutter,firebase,mongodb,postgres,mysql,aws,linux,git,figma&perline=11)](#) 
@@ -36,10 +13,7 @@ I'm a **2005 born coding sorcerer** who turns bugs into features and chaos into 
 </p>
 
 
-
----
-
-## **🌍 Let's Connect**  
+### **🌍 Let's Connect**  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lokesh-ram-chand-b-b276bb291"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"></a> &nbsp;
@@ -48,9 +22,6 @@ I'm a **2005 born coding sorcerer** who turns bugs into features and chaos into 
   <a href="https://stackoverflow.com/users/23266289/lokesh-ram-chand"><img src="https://skillicons.dev/icons?i=stackoverflow" alt="StackOverflow"></a>
 </p>
 
-<br/>
-
----
 <!--
 ## **🏆 GitHub Hall of Fame**  
 
