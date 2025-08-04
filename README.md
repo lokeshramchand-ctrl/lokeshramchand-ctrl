@@ -6,12 +6,24 @@
   <img src="assets/bann.png" alt="GitHub Banner" />
 </p>
 
-## About Me
+<table>
+  <tr>
+    <td width="60%" style="vertical-align: top; padding-right: 20px;">
+      <div style="font-family: 'Segoe UI', sans-serif; font-size: 15px; line-height: 1.6;">
+        <h3 style="margin-bottom: 10px; font-size: 20px; color: #333;">About Me</h3>
+        <p>
+          I am a 3rd-year Computer Science and Engineering student with a passion for building impactful applications using Flutter, Node.js, and AI.<br><br>
+          I enjoy exploring new technologies, solving challenging problems, and turning ideas into functional products.<br><br>
+          Driven by curiosity and a desire to innovate, I aim to create software that makes a meaningful difference in the world.
+        </p>
+      </div>
+    </td>
+    <td width="40%" height="40%" style="vertical-align: top;">
+      <img src="assets/train.gif" alt="Demo GIF" width="100%" style="border-radius: 6px; border: 1px solid #ddd;">
+    </td>
+  </tr>
+</table>
 
-I am a 3rd-year Computer Science and Engineering student passionate about building impactful applications using Flutter, Node.js, and AI.  
-My focus lies in creating real-world solutions through full-stack development and continuous learning.  
-I enjoy exploring new technologies, solving challenging problems, and turning ideas into functional products.  
-Driven by curiosity and a desire to innovate, I aim to build software that makes a meaningful difference.
 
 
 ### **⚡ Tech Stack**  
