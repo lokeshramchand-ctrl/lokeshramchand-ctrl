@@ -6,6 +6,13 @@
   <img src="assets/bann.png" alt="GitHub Banner" />
 </p>
 
+## About Me
+
+I am a 3rd-year Computer Science and Engineering student passionate about building impactful applications using Flutter, Node.js, and AI.  
+My focus lies in creating real-world solutions through full-stack development and continuous learning.  
+I enjoy exploring new technologies, solving challenging problems, and turning ideas into functional products.  
+Driven by curiosity and a desire to innovate, I aim to build software that makes a meaningful difference.
+
 
 ### **⚡ Tech Stack**  
 [![CodeTime Badge](https://img.shields.io/endpoint?style=flat&color=000&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D30676)](https://codetime.dev)
