@@ -6,11 +6,7 @@
 ### **⚡ Tech Stack**  
 [![CodeTime Badge](https://img.shields.io/endpoint?style=flat&color=000&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D30676)](https://codetime.dev)
 ### **💻 Languages & Frameworks**  
-[![My Skills](https://skillicons.dev/icons?i=python,java,django,react,nextjs,nodejs,express,tailwind,flutter,firebase,mongodb,postgres,mysql,aws,linux,git,figma&perline=11)](#) 
-
-### **🚀 Tools & Platforms**  
-  [![My Tools](https://skillicons.dev/icons?i=vscode,androidstudio,postman,webflow,ps,replit,vercel,netlify,stackoverflow,raspberrypi&perline=10)](https://github.com/lokeshramchand-ctrl)
-</p>
+[![My Skills](https://skillicons.dev/icons?i=python,java,django,react,nextjs,nodejs,express,tailwind,flutter,firebase,mongodb,postgres,mysql,git,figma&perline=11)](#) 
 
 
 ### **🌍 Let's Connect**  
