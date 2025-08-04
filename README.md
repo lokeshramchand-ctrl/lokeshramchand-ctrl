@@ -2,6 +2,10 @@
 <p align="right">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWw2NGUxZWx3MjFnbWptY3ljeng5d295cG84aTJoenNtNmNobWhuaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ip1NduMj923iZnuHfb/giphy.gif" width="160" style="float: right;">
 -->
+<p align="center">
+  <img src="assets/bann.png" alt="GitHub Banner" />
+</p>
+
 
 ### **⚡ Tech Stack**  
 [![CodeTime Badge](https://img.shields.io/endpoint?style=flat&color=000&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D30676)](https://codetime.dev)
