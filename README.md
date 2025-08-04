@@ -1,40 +1,31 @@
-<!--
-<p align="right">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWw2NGUxZWx3MjFnbWptY3ljeng5d295cG84aTJoenNtNmNobWhuaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ip1NduMj923iZnuHfb/giphy.gif" width="160" style="float: right;">
--->
+<!-- Banner -->
 <p align="center">
-  <img src="assets/bann.png" alt="GitHub Banner" />
+  <img src="assets/bann.png" alt="GitHub Banner" style="max-width: 100%; border-radius: 8px;">
 </p>
 
+<!-- Profile Summary + GIF -->
 <table>
   <tr>
-    <td width="60%" style="vertical-align: top; height="100%" ">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lokeshramchand-ctrl&theme=github_dark&title_color=264653&text_color=2a2a2a&icon_color=e76f51&border_color=2a9d8f&bg_color=f4f1de" alt="Profile Card" style="width:100%; border-radius: 60px; border: 5px solid #ffff;">
+    <td width="60%" style="vertical-align: top; padding-right: 15px;">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lokeshramchand-ctrl&theme=github_dark&title_color=264653&text_color=2a2a2a&icon_color=e76f51&border_color=2a9d8f&bg_color=f4f1de" alt="Profile Card" style="width:100%; border-radius: 12px; border: 3px solid #ffffff;">
     </td>
     <td width="40%" style="vertical-align: top;">
-      <img src="assets/train.gif" alt="Demo GIF" style="width:100%; border-radius: 6px; border: 1px solid #ddd;">
+      <img src="assets/train.gif" alt="Demo GIF" style="width:100%; border-radius: 8px; border: 1px solid #ddd;">
     </td>
   </tr>
 </table>
 
+<!-- Skills -->
+<p align="center" style="margin-top: 20px;">
+  <img src="https://skillicons.dev/icons?i=python,java,django,react,nodejs,express,flutter,mongodb,postgres,mysql,figma&perline=11" alt="Tech Stack">
+</p>
 
-
-
-
-
-### **⚡ Tech Stack**  
-[![CodeTime Badge](https://img.shields.io/endpoint?style=flat&color=000&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D30676)](https://codetime.dev)
-### **💻 Languages & Frameworks**  
-[![My Skills](https://skillicons.dev/icons?i=python,java,django,react,nodejs,express,flutter,mongodb,postgres,mysql,figma&perline=11)](#) 
-
-
-### **🌍 Let's Connect**  
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/lokesh-ram-chand-b-b276bb291"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"></a> &nbsp;
-  <a href="https://www.instagram.com/YOUR-INSTAGRAM-USERNAME"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"></a> &nbsp;
+<!-- Social Links -->
+<p align="center" style="margin-top: 10px;">
+  <a href="https://www.linkedin.com/in/lokesh-ram-chand-b-b276bb291" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"></a> &nbsp;
+  <a href="https://www.instagram.com/YOUR-INSTAGRAM-USERNAME" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"></a> &nbsp;
   <a href="mailto:lokeshramchand@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"></a> &nbsp;
-  <a href="https://stackoverflow.com/users/23266289/lokesh-ram-chand"><img src="https://skillicons.dev/icons?i=stackoverflow" alt="StackOverflow"></a>
+  <a href="https://stackoverflow.com/users/23266289/lokesh-ram-chand" target="_blank"><img src="https://skillicons.dev/icons?i=stackoverflow" alt="StackOverflow"></a>
 </p>
 
 <!--
