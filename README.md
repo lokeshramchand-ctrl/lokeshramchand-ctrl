@@ -24,7 +24,7 @@
   </tr>
 </table>
 
-  ![](https://komarev.com/ghpvc/?username=lokeshramchand-ctrl&style=flat&color=brightgreen)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lokeshramchand-ctrl&theme=github_dark)
 
 
 ### **⚡ Tech Stack**  
