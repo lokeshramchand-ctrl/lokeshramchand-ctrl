@@ -8,23 +8,28 @@
 
 <table>
   <tr>
-    <td width="60%" style="vertical-align: top; padding-right: 20px;">
-      <div style="font-family: 'Segoe UI', sans-serif; font-size: 15px; line-height: 1.6;">
-        <h3 style="margin-bottom: 10px; font-size: 20px; color: #333;">About Me</h3>
-        <p>
-          I am a 3rd-year Computer Science and Engineering student with a passion for building impactful applications using Flutter, Node.js, and AI.<br><br>
-          I enjoy exploring new technologies, solving challenging problems, and turning ideas into functional products.<br><br>
-          Driven by curiosity and a desire to innovate, I aim to create software that makes a meaningful difference in the world.
-        </p>
-      </div>
+    <td width="60%" style="vertical-align: top; ">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lokeshramchand-ctrl&theme=github_dark&title_color=264653&text_color=2a2a2a&icon_color=e76f51&border_color=2a9d8f&bg_color=f4f1de" alt="Profile Card" style="width:100%; border-radius: 60px; border: 5px solid #ffff;">
     </td>
-    <td width="40%" height="40%" style="vertical-align: top;">
-      <img src="assets/train.gif" alt="Demo GIF" width="100%" style="border-radius: 6px; border: 1px solid #ddd;">
+    <td width="40%" style="vertical-align: top;">
+      <img src="assets/train.gif" alt="Demo GIF" style="width:100%; border-radius: 6px; border: 1px solid #ddd;">
     </td>
   </tr>
 </table>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lokeshramchand-ctrl&theme=github_dark)
+
+
+<!-- GitHub stats card -->
+![Stats Card](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lokeshramchand-ctrl&theme=github_dark&title_color=264653&text_color=2a2a2a&icon_color=e76f51&border_color=2a9d8f&bg_color=f4f1de)
+
+<!-- Productive time card -->
+![Time Card](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lokeshramchand-ctrl&theme=github_dark&title_color=264653&text_color=2a2a2a&icon_color=e76f51&border_color=2a9d8f&bg_color=f4f1de&utcOffset=5.5)
+
+<!-- Repos per language -->
+![Languages Card](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lokeshramchand-ctrl&theme=github_dark&title_color=264653&text_color=2a2a2a&icon_color=e76f51&border_color=2a9d8f&bg_color=f4f1de)
+
+<!-- Most commit language -->
+![Commits Card](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lokeshramchand-ctrl&theme=github_dark&title_color=264653&text_color=2a2a2a&icon_color=e76f51&border_color=2a9d8f&bg_color=f4f1de)
 
 
 ### **⚡ Tech Stack**  
