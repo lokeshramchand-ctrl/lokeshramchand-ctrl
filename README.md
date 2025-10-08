@@ -2,6 +2,7 @@
 <p align="center">
   <img src="assets/Frame 4.png" alt="GitHub Banner" style="max-width: 100%; border-radius: 8px;">
 </p>
+
 <!-- Profile Summary + GIF -->
 <table>
   <tr>
