@@ -5,66 +5,23 @@
 <table>
   <tr>
     <td width="60%" style="vertical-align: top; padding-right: 15px;">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lokeshramchand-ctrl&title_color=ff69b4&text_color=ffc0cb&icon_color=ffb7c5&border_color=e75480&bg_color=0d1117">
-        
-        <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lokeshramchand-ctrl&title_color=e75480&text_color=5c2a3b&icon_color=ff69b4&border_color=ffb7c5&bg_color=fff0f5">
-        
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lokeshramchand-ctrl&title_color=e75480&text_color=5c2a3b&icon_color=ff69b4&border_color=ffb7c5&bg_color=fff0f5" alt="Profile Card" style="width:100%; border-radius: 12px; border: 3px solid #ffb7c5;">
-      </picture>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lokeshramchand-ctrl&title_color=ff69b4&text_color=ffc0cb&icon_color=ffb7c5&border_color=ff69b4&bg_color=0d1117" alt="Profile Card" style="width:100%; border-radius: 12px; border: 2px solid #ff69b4;">
     </td>
     <td width="40%" style="vertical-align: top;">
-      <img src="assets/train.gif" alt="Demo GIF" style="width:100%; border-radius: 8px; border: 1px solid #ffb7c5;">
+      <img src="assets/train.gif" alt="Demo GIF" style="width:100%; border-radius: 8px; border: 2px solid #ff69b4;">
     </td>
   </tr>
 </table>
 
-<p align="center">
-  <a href="https://github.com/AndroidWithRossyn/github-readme-activity-graph">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=lokeshramchand-ctrl&bg_color=0d1117&color=ffc0cb&line=ff69b4&point=e75480&area=true&hide_border=true">
-      
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=lokeshramchand-ctrl&bg_color=fff0f5&color=5c2a3b&line=e75480&point=ff69b4&area=true&hide_border=true">
-      
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=lokeshramchand-ctrl&bg_color=fff0f5&color=5c2a3b&line=e75480&point=ff69b4&area=true&hide_border=true" alt="activity graph">
-    </picture>
-  </a>
-</p>
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lokeshramchand-ctrl&bg_color=0d1117&color=ffc0cb&line=ff69b4&point=e75480&area=true&hide_border=true)](https://github.com/AndroidWithRossyn/github-readme-activity-graph)
 
 <p align="center" style="margin-top: 20px;">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,java,django,react,nodejs,express,flutter,mongodb,postgres,mysql,figma&perline=11&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,java,django,react,nodejs,express,flutter,mongodb,postgres,mysql,figma&perline=11&theme=light">
-    <img src="https://skillicons.dev/icons?i=python,java,django,react,nodejs,express,flutter,mongodb,postgres,mysql,figma&perline=11&theme=light" alt="Tech Stack">
-  </picture>
+  <img src="https://skillicons.dev/icons?i=python,java,django,react,nodejs,express,flutter,mongodb,postgres,mysql,figma&perline=11&theme=dark" alt="Tech Stack">
 </p>
 
 <p align="center" style="margin-top: 10px;">
-  <a href="https://www.linkedin.com/in/lokesh-ram-chand-b-b276bb291" target="_blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linkedin&theme=dark">
-      <img src="https://skillicons.dev/icons?i=linkedin&theme=light" alt="LinkedIn">
-    </picture>
-  </a> &nbsp;
-  
-  <a href="https://www.instagram.com/YOUR-INSTAGRAM-USERNAME" target="_blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=instagram&theme=dark">
-      <img src="https://skillicons.dev/icons?i=instagram&theme=light" alt="Instagram">
-    </picture>
-  </a> &nbsp;
-  
-  <a href="mailto:lokeshramchand@gmail.com">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=gmail&theme=dark">
-      <img src="https://skillicons.dev/icons?i=gmail&theme=light" alt="Gmail">
-    </picture>
-  </a> &nbsp;
-  
-  <a href="https://stackoverflow.com/users/23266289/lokesh-ram-chand" target="_blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=stackoverflow&theme=dark">
-      <img src="https://skillicons.dev/icons?i=stackoverflow&theme=light" alt="StackOverflow">
-    </picture>
-  </a>
+  <a href="https://www.linkedin.com/in/lokesh-ram-chand-b-b276bb291" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn"></a> &nbsp;
+  <a href="https://www.instagram.com/YOUR-INSTAGRAM-USERNAME" target="_blank"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="Instagram"></a> &nbsp;
+  <a href="mailto:lokeshramchand@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail"></a> &nbsp;
+  <a href="https://stackoverflow.com/users/23266289/lokesh-ram-chand" target="_blank"><img src="https://skillicons.dev/icons?i=stackoverflow&theme=dark" alt="StackOverflow"></a>
 </p>
