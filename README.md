@@ -5,7 +5,7 @@
 <table>
   <tr>
     <td width="60%" style="vertical-align: top; padding-right: 15px;">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lokeshramchand-ctrl&title_color=ff6b6b&text_color=ffb7c5&icon_color=ff6b6b&border_color=ffb7c5&bg_color=0d1117" alt="Profile Card" style="width:100%; border-radius: 12px; border: 2px solid #ffb7c5;">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lokeshramchand-ctrl&theme=github_dark&title_color=264653&text_color=2a2a2a&icon_color=e76f51&border_color=2a9d8f&bg_color=f4f1de" alt="Profile Card" style="width:100%; border-radius: 12px; border: 3px solid #ffffff;">
     </td>
     <td width="40%" style="vertical-align: top;">
       <img src="assets/train.gif" alt="Demo GIF" style="width:100%; border-radius: 8px; border: 2px solid #ffb7c5;">
@@ -13,8 +13,7 @@
   </tr>
 </table>
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lokeshramchand-ctrl&bg_color=0d1117&color=ffb7c5&line=ff6b6b&point=ffb7c5&area=true&hide_border=true)](https://github.com/AndroidWithRossyn/github-readme-activity-graph)
-
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lokeshramchand-ctrl&bg_color=0d1117&color=ffffff&line=40c463&point=fff7e0&area=true&hide_border=true)](https://github.com/AndroidWithRossyn/github-readme-activity-graph)
 <p align="center" style="margin-top: 20px;">
   <img src="https://skillicons.dev/icons?i=python,java,django,react,nodejs,express,flutter,mongodb,postgres,mysql,figma&perline=11&theme=dark" alt="Tech Stack">
 </p>
