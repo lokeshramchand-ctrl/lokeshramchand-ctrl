@@ -1,7 +1,6 @@
 <p align="center">
   <img src="assets/Frame 3.png" alt="GitHub Banner" style="max-width: 100%; border-radius: 8px;">
 </p>
-
 <table>
   <tr>
     <td width="60%" style="vertical-align: top; padding-right: 15px;">
