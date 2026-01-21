@@ -2,6 +2,7 @@
   <img src="assets/Frame 3.png" alt="GitHub Banner" style="max-width: 100%; border-radius: 8px;">
 </p>
 <table>
+  
   <tr>
     <td width="60%" style="vertical-align: top; padding-right: 15px;">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lokeshramchand-ctrl&theme=github_dark&title_color=264653&text_color=2a2a2a&icon_color=e76f51&border_color=2a9d8f&bg_color=f4f1de" alt="Profile Card" style="width:100%; border-radius: 12px; border: 3px solid #ffffff;">
