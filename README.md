@@ -20,7 +20,6 @@
 
 <p align="center" style="margin-top: 10px;">
   <a href="https://www.linkedin.com/in/lokesh-ram-chand-b-b276bb291" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn"></a> &nbsp;
-  <a href="https://www.instagram.com/YOUR-INSTAGRAM-USERNAME" target="_blank"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="Instagram"></a> &nbsp;
   <a href="mailto:lokeshramchand@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail"></a> &nbsp;
   <a href="https://stackoverflow.com/users/23266289/lokesh-ram-chand" target="_blank"><img src="https://skillicons.dev/icons?i=stackoverflow&theme=dark" alt="StackOverflow"></a>
 </p>
