@@ -4,10 +4,10 @@
 <table>
 
   <tr>
-    <td width="60%" style="vertical-align: top; padding-right: 15px;">
-   <img src="assets/pixel-art-urban.gif" alt="Demo GIF" style="width:100%; border-radius: 8px; border: 2px solid #ffb7c5;">
+    <td width="50%" style="vertical-align: top; padding-right: 15px;">
+   <img src="assets/tokyo.gif" alt="Demo GIF" style="width:100%; border-radius: 8px; border: 2px solid #ffb7c5;">
     </td>
-    <td width="40%" style="vertical-align: top;">
+    <td width="50%" style="vertical-align: top;">
       <img src="assets/train.gif" alt="Demo GIF" style="width:100%; border-radius: 8px; border: 2px solid #ffb7c5;">
     </td>
   </tr>
