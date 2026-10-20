@@ -13,12 +13,12 @@
   </tr>
 </table>
 
-
-
 <p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=lokeshramchand-ctrl&theme=dracula" alt="Lokesh's GitHub Activity Graph" />
-  </a>
+  <img
+    src="https://raw.githubusercontent.com/lokeshramchand-ctrl/lokeshramchand-ctrl/main/profile-3d-contrib/profile-night-view.svg"
+    alt="3D GitHub Contribution Graph"
+    width="100%"
+  />
 </p>
 
   <img src="https://skillicons.dev/icons?i=python,java,django,react,nodejs,express,flutter,mongodb,postgres,mysql,figma&perline=11&theme=dark" alt="Tech Stack">
