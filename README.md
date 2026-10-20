@@ -13,8 +13,15 @@
   </tr>
 </table>
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lokeshramchand-ctrl&bg_color=0d1117&color=ffffff&line=40c463&point=fff7e0&area=true&hide_border=true)](https://github.com/AndroidWithRossyn/github-readme-activity-graph)
-<p align="center" style="margin-top: 20px;">
+
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=lokeshramchand-ctrl&theme=dracula"
+      alt="Lokesh's GitHub Activity Graph"
+    />
+  </a>
+</p>
   <img src="https://skillicons.dev/icons?i=python,java,django,react,nodejs,express,flutter,mongodb,postgres,mysql,figma&perline=11&theme=dark" alt="Tech Stack">
 </p>
 
