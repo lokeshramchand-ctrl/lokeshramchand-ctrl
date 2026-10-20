@@ -14,14 +14,13 @@
 </table>
 
 
+
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=lokeshramchand-ctrl&theme=dracula"
-      alt="Lokesh's GitHub Activity Graph"
-    />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=lokeshramchand-ctrl&theme=dracula" alt="Lokesh's GitHub Activity Graph" />
   </a>
 </p>
+
   <img src="https://skillicons.dev/icons?i=python,java,django,react,nodejs,express,flutter,mongodb,postgres,mysql,figma&perline=11&theme=dark" alt="Tech Stack">
 </p>
 
